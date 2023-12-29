@@ -11,5 +11,6 @@
   <body>
     <div id="app"></div>
     <script src="{{ mix('js/app.js') }}"></script>
+    <h1>Global</h1>
   </body>
 </html>
